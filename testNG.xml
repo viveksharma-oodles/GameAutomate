@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+    <!--API Tests-->
+   <!--  <test name="API Test">
+        <classes>
+            <class name="org.example.ApiTest"/>
+        </classes>
+    </test>  -->
+
+    <!--Web Tests-->
+   <!-- <test name="WEB Test">
+        <classes>
+            <class name="org.example.WebTest"/>
+        </classes>
+    </test> -->
+
+    <!--Mobile Tests-->
+  <test name="Mobile Test">
+        <classes>
+            <class name="org.example.MobileTest"/>
+        </classes>
+    </test> 
+</suite>

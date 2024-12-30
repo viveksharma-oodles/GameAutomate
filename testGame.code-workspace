@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:/automation/playwright/newplaywright"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
